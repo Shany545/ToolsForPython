@@ -1,5 +1,5 @@
 import error as e
-def replace():
+def repl():
     blam = input("What file would you like to use(Please include .html/.java/.py/etc)\n")
     blm = input("what would you like to replace?\n")
     bl = input("what would you like to replace it with?\n")
