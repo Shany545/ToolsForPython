@@ -7,4 +7,3 @@ def LookUp():
     print("Searching for "+ws)
     webbrowser.open(url_goog + lu)
     return LookUp
-LookUp()
